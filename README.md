@@ -1,0 +1,1 @@
+Code for my article http://habrahabr.ru/post/133126/ - intruduction to Qt Quick3D. It was article for Nokia contest and I won phone N950 for this code and article. 
